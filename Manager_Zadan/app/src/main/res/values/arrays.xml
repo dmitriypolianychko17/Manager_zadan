@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_repeater">
+        <item>Dziennie</item>
+        <item>Tygodniowo</item>
+        <item>Miesięcznie</item>
+        <item>Rocznie</item>
+    </string-array>
+</resources>
